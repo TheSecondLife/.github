@@ -36,19 +36,20 @@
 # Stacks
 
 ### Environment
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
 
 
 ### Config
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 
 
 ### Development
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
 
 
 ### Communication
-> notion 만드는중 ^^
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
 
 
 <br/><br/>
@@ -79,6 +80,17 @@ For building and running the application you need:
 
 <br/>
 
+### 공공데이터 및 API
+> 회원가입/로그인 : <a href="https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api">카카오 로그인</a><br/>
+> 취업 : <a href="https://openapi.work.go.kr/opi/opi/opia/seniorInternWantedApiListVw.do">워크넷 장년 인턴 API</a><br/>
+> 건강 : <a href="https://www.data.go.kr/data/15001698/openapi.do#/layer-api-guide">건강보험심사평가원_병원정보서비스</a><br/>
+> 건강 : <a href="https://platform.openai.com/">OpenAI</a><br/>
+> 건강 : <a href="https://apis.map.kakao.com/web/guide/">카카오맵</a><br/>
+> 문화 : <a href="https://www.data.go.kr/iim/dps/dpc/selectMyDataPrcusView.do">전국 공연 행사 정보 표준데이터</a><br/>
+
+
+<br/>
+
 ### Installation
 
 * Front
@@ -98,7 +110,7 @@ npm start
 
 
 # 프로젝트 구조도
-> 준비중입니다.
+![project](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/f5d0e2f6-e2a8-4bf2-b70a-2869b6b82fe4)
 
 
 <br/><br/>
@@ -122,7 +134,7 @@ npm start
 
 * 0.1.0
     * 첫 출시 (2023.07.02)
-    * 수정: react-speech-kit에서 react-speech-recognition으로 변경
+    * 수정: react-speech-kit에서 react-speech-recognition으로 변경 (2023.07.02)
 * 0.0.1
     * 작업 진행 중 (2023.06.12)
 
@@ -160,7 +172,7 @@ module.exports = function (app) {
 
 <br/>
 
-### react-speech-kit 앱 버전 이슈
+### react-speech-kit 앱 버전 변경 시 미작동 이슈
 > 문제 사항: 버튼을 길게 눌러 음성을 인식하는 구조, 핸드폰 웹에서는 작동 안됨<br/>
 > 해결 방안: react-speech-recognition을 이용해 [start] 버튼 클릭 후 음성 인식, [stop] 버튼 클릭 후 인식 중단<br/>
 > 추가 문제점: 리액트 웹을 앱으로 다운받았을 때 버튼이 안눌리는 이슈 발생<br/>
