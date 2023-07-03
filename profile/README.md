@@ -1,8 +1,5 @@
 # The Second Life
 ![secondLife_main](https://github.com/SahhaShin/coding_test/assets/33896511/23d19c21-807a-4828-bfc6-b14b290863e1)
-
-                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-
 > 시니어의 일상이 새롭게 시작되는 곳
 > 개발기간: 2023.06.12 ~ 2023.07.02
 
@@ -15,41 +12,88 @@
 
 |지민성|박세윤|석다영|신산하|
 |:---:|:---:|:---:|:---:|
-|![ms](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/8ff68bd8-7edf-4279-b723-cb0460f17b12)|![sy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/54ca6c53-9df0-4976-b67f-3fed163a9b2d)|![dy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/6467c295-6350-4630-8af2-9e2577ace510)|![sanha](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/bb76713d-54e7-482d-b691-afb187edfdc1)|
+|![ms](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/8ff68bd8-7edf-4279-b723-cb0460f17b12)|![sy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/54ca6c53-9df0-4976-b67f-3fed163a9b2d)|![dy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/6467c295-6350-4630-8af2-9e2577ace510)|![sh](https://github.com/SahhaShin/coding_test/assets/33896511/9c77e903-3ed5-48e7-996a-293ae4b77844)|
 |@minsung37|@ParkSeYun98|@Daen12|@SahhaShin|
 
 
+# Stacks
+
+### Environment
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 
-## 설치 방법
+### Config
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+
+
+### Development
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+
+
+### Communication
+notion 만드는중 ^^
+
+
+# 시작 가이드
+
 [![NPM Version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Downloads Stats][npm-downloads]][npm-url]
 
-OS X & 리눅스:
+### Requirements
+For building and running the application you need:
+
+* Front
+- react 18.2.0
+- react-speech-recognition 3.10.0
+- Node.js 18.16.0
+- Npm 9.5.1
+- reduxjs/toolkit 1.9.5
+- stomp/stompjs 7.0.0
+- axios 1.4.0
+- bootstrap 5.3.0
+- react-bootstrap 2.7.4
+- http-proxy-middleware 2.0.6
+
+
+* Back
+- Spring Boot 3.1.0
+- java 17
+- 추가 예정
+
+
+### Installation
+
+* Front
 
 ```sh
-npm install my-crazy-module --save
+npm install --force
+npm start
 ```
 
-윈도우:
+* Back
 
-```sh
-edit autoexec.bat
-```
+1) build.gradle 클릭 후 실행에 필요한 라이브러리 설치
+2) src > main > java > util > SecondlifeApplication 좌측 실행 버튼 혹은 우측 상단 실행 버튼 클릭
 
-## 사용 예제
 
-스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
+# 프로젝트 구조도
 
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
-## 개발 환경 설정
+# ERD
 
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
 
-```sh
-make install
-npm test
-```
+# 화면 구성
+
+
+# 주요 기능
+
 
 ## 업데이트 내역
 
@@ -65,27 +109,3 @@ npm test
     * 수정: `foo()` 메서드 네이밍을 `bar()`로 수정
 * 0.0.1
     * 작업 진행 중
-
-## 정보
-
-이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
-
-XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## 기여 방법
-
-1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
-2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
-3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
-4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
-5. 풀리퀘스트를 보내주세요.
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
