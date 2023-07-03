@@ -105,7 +105,7 @@ npm start
 
 
 # ERD
-> 준비중입니다.
+> ![erd](https://github.com/TheSecondLife/.github/assets/33896511/7c4e650c-893b-45b8-873b-b5ed324ae681)
 
 
 <br/><br/>
