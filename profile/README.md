@@ -131,4 +131,36 @@ npm start
 
 
 # Trouble Shooting
-> 준비중입니다.
+
+### CORS: Cross Origin Resource Share
+> 문제 사항: 프론트엔드에서 백엔드로 API 요청 시 CORS 에러<br/>
+> 해결 방안: Http-Proxy-Middleware 패키지 설치 및 setupProxy.js 배치<br/>
+```sh
+const { createProxyMiddleware } = require("http-proxy-middleware");
+
+// src/setupProxy.js
+module.exports = function (app) {
+    app.use(
+        createProxyMiddleware("/api", {
+            target: process.env.REACT_APP_SERVER,
+            changeOrigin: true,
+        })
+    );
+};
+```
+> 개념: 프록시 서버는 클라이언트가 프록시 서버를 통해 다른 네트워크에 간접적으로 접속할 수 있게 해준다. 쉽게 이해하자면 "중계서버"라고 이해하면 된다.<br/>
+> 출처: https://velog.io/@yunsungyang-omc/React-React-App%EC%97%90%EC%84%9C-CORS-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0
+
+<br/>
+
+### Redux Toolkit 재렌더링 이슈
+> 문제 사항: Redux Toolkit 재렌더링 시 내부 데이터가 초기화되는 이슈<br/>
+> 해결 방안1: redux-persist 적용해 local storage에 정보 저장하려 했지만 제대로 동작 안함<br/>
+> 해결 방안2: local storage로 다음 페이지에 필요한 정보만 저장하는 방향으로 진행 (채택)<br/>
+
+<br/>
+
+### react-speech-kit 앱 버전 이슈
+> 문제 사항: 버튼을 길게 눌러 음성을 인식하는 구조, 핸드폰 웹에서는 작동 안됨<br/>
+> 해결 방안: react-speech-recognition을 이용해 [start] 버튼 클릭 후 음성 인식, [stop] 버튼 클릭 후 인식 중단<br/>
+> 추가 문제점: 리액트 웹을 앱으로 다운받았을 때 버튼이 안눌리는 이슈 발생<br/>
