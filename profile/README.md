@@ -1,15 +1,28 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# The Second Life
+![secondLife_main](https://github.com/SahhaShin/coding_test/assets/33896511/23d19c21-807a-4828-bfc6-b14b290863e1)
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
+> 시니어의 일상이 새롭게 시작되는 곳
+> 개발기간: 2023.06.12 ~ 2023.07.02
 
-![](../header.png)
+
+# 배포 주소
+> https://yoursecondlife.netlify.app
+
+
+# 개발팀 소개
+
+|지민성|박세윤|석다영|신산하|
+|:---:|:---:|:---:|:---:|
+|![ms](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/8ff68bd8-7edf-4279-b723-cb0460f17b12)|![sy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/54ca6c53-9df0-4976-b67f-3fed163a9b2d)|![dy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/6467c295-6350-4630-8af2-9e2577ace510)|![sanha](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/bb76713d-54e7-482d-b691-afb187edfdc1)|
+|@minsung37|@ParkSeYun98|@Daen12|@SahhaShin|
+
+
+
 
 ## 설치 방법
+[![NPM Version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Downloads Stats][npm-downloads]][npm-url]
 
 OS X & 리눅스:
 
