@@ -26,7 +26,7 @@
 
 |지민성|박세윤|석다영|신산하|
 |:---:|:---:|:---:|:---:|
-|![ms](https://github.com/TheSecondLife/.github/assets/33896511/38fa6812-535c-496d-a9fc-15a60f2305b4)|![sy]([https://github.com/TheSecondLife/.github/assets/33896511/4d40dc02-0f62-48c3-98cb-dcabeb572e89](https://avatars.githubusercontent.com/u/81186461?s=400&u=6c9c354dfa92bb4b5c11f41f7c5ee7ff0f557259&v=4))|![dy](https://github.com/TheSecondLife/.github/assets/33896511/ece3b5c5-086a-401c-8597-704c20b1cd2c)|![sh](https://github.com/TheSecondLife/.github/assets/33896511/53234771-3ed7-46fb-8d11-25c54aa05adc)|
+|![ms](https://github.com/TheSecondLife/.github/assets/33896511/38fa6812-535c-496d-a9fc-15a60f2305b4)|![sy](https://avatars.githubusercontent.com/u/81186461?v=4)|![dy](https://github.com/TheSecondLife/.github/assets/33896511/ece3b5c5-086a-401c-8597-704c20b1cd2c)|![sh](https://github.com/TheSecondLife/.github/assets/33896511/53234771-3ed7-46fb-8d11-25c54aa05adc)|
 |Back & Front|Back|Front|Front|
 |<a href="https://github.com/minsung37">@minsung37</a>|<a href="https://github.com/ParkSeYun98">@ParkSeYun98</a>|<a href="https://github.com/Daen12">@Daen12</a>|<a href="https://github.com/SahhaShin">@SahhaShin</a>|
 
