@@ -3,7 +3,7 @@
 <br/>
 
 ![secondLife_main](https://github.com/SahhaShin/coding_test/assets/33896511/23d19c21-807a-4828-bfc6-b14b290863e1)
-![image](https://github.com/TheSecondLife/.github/assets/111489407/474f14ca-38c6-4521-abf0-7c350318f964)
+![image](https://github.com/TheSecondLife/.github/assets/111489407/71d43a5c-9700-417c-ac7b-8d1d9fc7df45)
 
 <br/>
 
