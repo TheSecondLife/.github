@@ -90,23 +90,6 @@ For building and running the application you need:
 > 문화 : <a href="https://www.data.go.kr/iim/dps/dpc/selectMyDataPrcusView.do">전국 공연 행사 정보 표준데이터</a><br/>
 
 
-<br/>
-
-### Installation
-
-* Front
-
-```sh
-npm install --force
-npm start
-```
-
-* Back
-
-> 1) build.gradle 클릭 후 실행에 필요한 라이브러리 설치
-> 2) src > main > java > util > SecondlifeApplication 좌측 실행 버튼 혹은 우측 상단 실행 버튼 클릭
-
-
 <br/><br/>
 
 
