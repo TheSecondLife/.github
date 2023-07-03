@@ -1,10 +1,9 @@
 # The Second Life
+시니어의 일상이 새롭게 시작되는 곳
 ![secondLife_main](https://github.com/SahhaShin/coding_test/assets/33896511/23d19c21-807a-4828-bfc6-b14b290863e1)
 
 <br/>
 
-> 시니어의 일상이 새롭게 시작되는 곳
-> <br/>
 > 개발기간: 2023.06.12 ~ 2023.07.02
 > <br/>
 > 형태 : App
@@ -55,28 +54,26 @@
 
 # 시작 가이드
 
-<br/>
-
 ### Requirements
 For building and running the application you need:
 
 * Front
-> react 18.2.0
-> react-speech-recognition 3.10.0
-> Node.js 18.16.0
-> Npm 9.5.1
-> reduxjs/toolkit 1.9.5
-> stomp/stompjs 7.0.0
-> axios 1.4.0
-> bootstrap 5.3.0
-> react-bootstrap 2.7.4
-> http-proxy-middleware 2.0.6
+> react 18.2.0 <br/>
+> react-speech-recognition 3.10.0 <br/>
+> Node.js 18.16.0 <br/>
+> Npm 9.5.1 <br/>
+> reduxjs/toolkit 1.9.5 <br/>
+> stomp/stompjs 7.0.0 <br/>
+> axios 1.4.0 <br/>
+> bootstrap 5.3.0 <br/>
+> react-bootstrap 2.7.4 <br/>
+> http-proxy-middleware 2.0.6 <br/>
 
 
 * Back
-> Spring Boot 3.1.0
-> java 17
-> 추가 예정
+> Spring Boot 3.1.0 <br/>
+> java 17 <br/>
+> 추가 예정 <br/>
 
 <br/>
 
