@@ -3,10 +3,18 @@
 > 시니어의 일상이 새롭게 시작되는 곳
 > <br/>
 > 개발기간: 2023.06.12 ~ 2023.07.02
+> <br/>
+> 형태 : App
+
+
+<br/><br/>
 
 
 # 배포 주소
 > https://yoursecondlife.netlify.app
+
+
+<br/><br/>
 
 
 # 개발팀 소개
@@ -14,15 +22,17 @@
 |지민성|박세윤|석다영|신산하|
 |:---:|:---:|:---:|:---:|
 |![ms](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/8ff68bd8-7edf-4279-b723-cb0460f17b12)|![sy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/54ca6c53-9df0-4976-b67f-3fed163a9b2d)|![dy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/6467c295-6350-4630-8af2-9e2577ace510)|![sh](https://github.com/SahhaShin/coding_test/assets/33896511/9c77e903-3ed5-48e7-996a-293ae4b77844)|
+|Backend|Backend|Frontend|Frontend|
 |@minsung37|@ParkSeYun98|@Daen12|@SahhaShin|
+
+
+<br/><br/>
 
 
 # Stacks
 
 ### Environment
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 
 ### Config
@@ -30,22 +40,19 @@
 
 
 ### Development
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"><img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 
 
 ### Communication
 notion 만드는중 ^^
 
 
+<br/><br/>
+
+
 # 시작 가이드
 
-[![NPM Version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Downloads Stats][npm-downloads]][npm-url]
+<br/>
 
 ### Requirements
 For building and running the application you need:
@@ -68,6 +75,7 @@ For building and running the application you need:
 - java 17
 - 추가 예정
 
+<br/>
 
 ### Installation
 
@@ -84,29 +92,48 @@ npm start
 2) src > main > java > util > SecondlifeApplication 좌측 실행 버튼 혹은 우측 상단 실행 버튼 클릭
 
 
+<br/><br/>
+
+
 # 프로젝트 구조도
+준비중입니다.
+
+
+<br/><br/>
 
 
 # ERD
+준비중입니다.
+
+
+<br/><br/>
 
 
 # 화면 구성
+준비중입니다.
+
+
+<br/><br/>
 
 
 # 주요 기능
+준비중입니다.
 
 
-## 업데이트 내역
+<br/><br/>
 
-* 0.2.1
-    * 수정: 문서 업데이트 (모듈 코드 동일)
-* 0.2.0
-    * 수정: `setDefaultXYZ()` 메서드 제거
-    * 추가: `init()` 메서드 추가
-* 0.1.1
-    * 버그 수정: `baz()` 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)
+
+# 업데이트 내역
+
 * 0.1.0
-    * 첫 출시
-    * 수정: `foo()` 메서드 네이밍을 `bar()`로 수정
+    * 첫 출시 (2023.07.02)
+    * 수정: react-speech-kit에서 react-speech-recognition으로 변경
 * 0.0.1
-    * 작업 진행 중
+    * 작업 진행 중 (2023.06.12)
+
+ 
+<br/><br/>
+
+
+# Trouble Shooting
+준비중입니다.
