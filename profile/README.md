@@ -1,6 +1,7 @@
 # The Second Life
 ![secondLife_main](https://github.com/SahhaShin/coding_test/assets/33896511/23d19c21-807a-4828-bfc6-b14b290863e1)
 > 시니어의 일상이 새롭게 시작되는 곳
+> <br/>
 > 개발기간: 2023.06.12 ~ 2023.07.02
 
 
