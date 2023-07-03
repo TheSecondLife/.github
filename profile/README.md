@@ -3,6 +3,7 @@
 <br/>
 
 ![secondLife_main](https://github.com/SahhaShin/coding_test/assets/33896511/23d19c21-807a-4828-bfc6-b14b290863e1)
+![image](https://github.com/TheSecondLife/.github/assets/111489407/474f14ca-38c6-4521-abf0-7c350318f964)
 
 <br/>
 
@@ -124,8 +125,12 @@ npm start
 
 
 # 화면 구성 & 주요 기능
-> 준비중입니다.
-
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcjZBGX%2FbtsmcLvgYWG%2FuGafKFY95XOVb5ncBEELik%2Fimg.png)
+![image](https://github.com/TheSecondLife/.github/assets/111489407/73370706-cdd7-45bb-8c98-669e6de208a8)
+![image](https://github.com/TheSecondLife/.github/assets/111489407/4a77086c-794a-4d80-b0ef-7abd3b01eb6a)
+![image](https://github.com/TheSecondLife/.github/assets/111489407/b7b85696-a985-4698-83e1-1ef5432a5395)
+![image](https://github.com/TheSecondLife/.github/assets/111489407/63a18083-0548-406e-964c-160089006def)
+![image](https://github.com/TheSecondLife/.github/assets/111489407/45e40a11-3757-476c-9b2a-63416e59c9e4)
 
 <br/><br/>
 
