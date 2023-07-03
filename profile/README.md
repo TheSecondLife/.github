@@ -76,7 +76,7 @@ For building and running the application you need:
 * Back
 > Spring Boot 3.1.0 <br/>
 > java 17 <br/>
-> 추가 예정 <br/>
+> MySQL 8.23 <br/>
 
 <br/>
 
