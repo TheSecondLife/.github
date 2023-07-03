@@ -26,7 +26,7 @@
 |지민성|박세윤|석다영|신산하|
 |:---:|:---:|:---:|:---:|
 |![ms](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/8ff68bd8-7edf-4279-b723-cb0460f17b12)|![sy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/54ca6c53-9df0-4976-b67f-3fed163a9b2d)|![dy](https://github.com/TheSecondLife/TheSecondLifeFront/assets/33896511/6467c295-6350-4630-8af2-9e2577ace510)|![sh](https://github.com/SahhaShin/coding_test/assets/33896511/9c77e903-3ed5-48e7-996a-293ae4b77844)|
-|Backend|Backend|Frontend|Frontend|
+|Back & Front|Back|Front|Front|
 |@minsung37|@ParkSeYun98|@Daen12|@SahhaShin|
 
 
