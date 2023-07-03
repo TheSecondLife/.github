@@ -1,5 +1,8 @@
 # The Second Life
 ![secondLife_main](https://github.com/SahhaShin/coding_test/assets/33896511/23d19c21-807a-4828-bfc6-b14b290863e1)
+
+<br/>
+
 > 시니어의 일상이 새롭게 시작되는 곳
 > <br/>
 > 개발기간: 2023.06.12 ~ 2023.07.02
@@ -32,7 +35,7 @@
 # Stacks
 
 ### Environment
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 
 ### Config
@@ -40,11 +43,11 @@
 
 
 ### Development
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"><img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 
 
 ### Communication
-notion 만드는중 ^^
+> notion 만드는중 ^^
 
 
 <br/><br/>
@@ -58,22 +61,22 @@ notion 만드는중 ^^
 For building and running the application you need:
 
 * Front
-- react 18.2.0
-- react-speech-recognition 3.10.0
-- Node.js 18.16.0
-- Npm 9.5.1
-- reduxjs/toolkit 1.9.5
-- stomp/stompjs 7.0.0
-- axios 1.4.0
-- bootstrap 5.3.0
-- react-bootstrap 2.7.4
-- http-proxy-middleware 2.0.6
+> react 18.2.0
+> react-speech-recognition 3.10.0
+> Node.js 18.16.0
+> Npm 9.5.1
+> reduxjs/toolkit 1.9.5
+> stomp/stompjs 7.0.0
+> axios 1.4.0
+> bootstrap 5.3.0
+> react-bootstrap 2.7.4
+> http-proxy-middleware 2.0.6
 
 
 * Back
-- Spring Boot 3.1.0
-- java 17
-- 추가 예정
+> Spring Boot 3.1.0
+> java 17
+> 추가 예정
 
 <br/>
 
@@ -88,36 +91,36 @@ npm start
 
 * Back
 
-1) build.gradle 클릭 후 실행에 필요한 라이브러리 설치
-2) src > main > java > util > SecondlifeApplication 좌측 실행 버튼 혹은 우측 상단 실행 버튼 클릭
+> 1) build.gradle 클릭 후 실행에 필요한 라이브러리 설치
+> 2) src > main > java > util > SecondlifeApplication 좌측 실행 버튼 혹은 우측 상단 실행 버튼 클릭
 
 
 <br/><br/>
 
 
 # 프로젝트 구조도
-준비중입니다.
+> 준비중입니다.
 
 
 <br/><br/>
 
 
 # ERD
-준비중입니다.
+> 준비중입니다.
 
 
 <br/><br/>
 
 
 # 화면 구성
-준비중입니다.
+> 준비중입니다.
 
 
 <br/><br/>
 
 
 # 주요 기능
-준비중입니다.
+> 준비중입니다.
 
 
 <br/><br/>
@@ -136,4 +139,4 @@ npm start
 
 
 # Trouble Shooting
-준비중입니다.
+> 준비중입니다.
